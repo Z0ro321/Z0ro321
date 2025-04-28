@@ -2,8 +2,16 @@
 <h1 align="center">👋 Привет, я Егор</h1>
 <h3 align="center">💀 Студент по информационной безопасности</h3>
 
-<!-- Разделитель -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<!-- Анимированная полоска-разделитель -->
+<div style="height: 4px; background: linear-gradient(90deg, #00599C, #3776AB, #4EAA25, #F34B7D, #E34F26, #563D7C); background-size: 400% 400%; animation: gradient 8s ease infinite; margin: 1rem 0;"></div>
+
+<style>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 
 <!-- Статистика -->
 <div>
@@ -28,20 +36,6 @@
 <h2>🌈 Распределение языков</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro321&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=Z0ro321" alt="Топ языков"/>
-<!-- Контейнер для анимации -->
-<div align="center" style="background: linear-gradient(90deg, #00599C, #3776AB, #4EAA25, #F34B7D, #E34F26, #563D7C); background-size: 400% 400%; animation: gradient 8s ease infinite; border-radius: 10px; padding: 0.5rem; margin-bottom: 1rem;">
-  <p style="color: white; font-weight: bold; margin: 0;">
-    C++ • Python • Bash • Git • HTML • CSS
-  </p>
-</div>
-
-<style>
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
 
 <!-- Статус -->
 <h2>💻 По жизни</h2>
