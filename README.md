@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Заголовок с анимацией -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=20BEFF&width=435&lines=Egor+Z0ro321+👋;Студент+ИБ+|+C%2B%2B+разработчик" alt="Заголовок" />
+  <!-- Без русских букв в URL -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&color=20BEFF&width=435&lines=Hello,+I'm+Egor+👋;Information+Security+Student;Expertise:+C%2B%2B" alt="Header"/>
 
   <!-- Разделитель -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
