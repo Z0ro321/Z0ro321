@@ -1,27 +1,30 @@
 <div align="center">
-  
-  <!-- Заголовок (100% рабочий) -->
-  <h1> 🚀 Привет, я Egor (Z0ro321)</h1>
-  <h3>🔧 Студент ИБ </h3>
+  <!-- Заголовок с анимацией -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=20BEFF&width=435&lines=Привет,+я+Egor+👋;C%2B%2B%2FPСтудент+ИБ💀" alt="Заголовок" />
+
+  <!-- Разделитель -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
   <!-- Статистика -->
   <div>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Z0ro321&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Статистика"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro321&layout=compact&theme=dark&hide_border=true" alt="Языки"/>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Z0ro321&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Z0ro321&theme=dark&hide_border=true&background=00000000" />
   </div>
 
-  <!-- Стек с иконками -->
-  <h2>🛠 Мой стек</h2>
-  <p>
-    <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash"/>
-    <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  </p>
-
+  <!-- Крутые 3D-иконки стека -->
+  <h2>🚀 Мой стек</h2>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" title="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" title="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" title="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="50" title="SQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" title="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
+  </div>
 
   <!-- Статус -->
-  <h2>💀 Status</h2>
-  <p><b>⚠️ Тяжко</b> | Код > Сон | Last Coffee: Today 03:42</p>
+  <h2>💻 Сегодня</h2>
+  <p>🔧💀 { ИБ -> 0 }</p>
 </div>
