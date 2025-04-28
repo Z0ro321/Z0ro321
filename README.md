@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">👋 Привет, я Egor</h1>
-<h3 align="center">💀 Студент по информационной безопасности | C++</h3>
+<h3 align="center">💀 Студент по информационной безопасности</h3>
 
   <!-- Разделитель -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
