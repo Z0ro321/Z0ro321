@@ -10,11 +10,6 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro321&layout=compact&theme=dark&hide_border=true" alt="Языки"/>
   </div>
 
-  <!-- Проект -->
-  <a href="https://github.com/Z0ro321/telegram-bot">
-    <img src="https://img.shields.io/badge/Сейчас-Разрабатываю_бота-20BEFF?style=for-the-badge" alt="Проект"/>
-  </a>
-
   <!-- Стек с иконками -->
   <h2>🛠 Мой стек</h2>
   <p>
@@ -25,9 +20,6 @@
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"/>
   </p>
 
-  <!-- Змейка (упрощенная версия) -->
-  <h2>📈 Активность</h2>
-  <img src="https://raw.githubusercontent.com/Z0ro321/Z0ro321/output/github-contribution-grid-snake.svg" alt="Змейка" width="100%"/>
 
   <!-- Статус -->
   <h2>💀 Status</h2>
