@@ -24,9 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
 </div>
 
-<!-- НОВЫЙ БЛОК: Визуализация языков -->
 <h2>📊 Распределение языков</h2>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Z0ro321&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Статистика языков" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0ro321&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=Z0ro321" alt="Топ языков"/>
 
 <!-- Статус -->
 <h2>💻 По жизни</h2>
