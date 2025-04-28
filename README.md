@@ -24,6 +24,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" />
   </div>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Z0ro321=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <!-- Статус -->
   <h2>💻 По жизни</h2>
   <p>🔧💀</p>
