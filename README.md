@@ -8,7 +8,6 @@
 <!-- Статистика -->
 <div>
   <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Z0ro321&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Z0ro321&theme=dark&hide_border=true&background=00000000" />
 </div>
 
 <!-- Крутые 3D-иконки стека -->
