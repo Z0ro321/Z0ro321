@@ -7,7 +7,6 @@
 
 <!-- Статистика -->
   <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Z0ro321&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="Статистика"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Z0ro321&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   </div>
 <!-- Крутые 3D-иконки стека -->
