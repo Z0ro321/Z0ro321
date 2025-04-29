@@ -7,7 +7,7 @@
 
 <!-- Статистика -->
   <div align="center">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Z0ro321&theme=dark&hide_border=true" alt="GitHub Streak">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Z0ro321&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="Stats">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Z0ro321&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   </div>
 <!-- Крутые 3D-иконки стека -->
