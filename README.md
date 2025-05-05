@@ -31,10 +31,3 @@
 <h2>💻 По жизни</h2>
 <p>🔧💀</p>
 </div>
-
-flowchart TD
-    A[База данных\nmy_database] --> B[Роли пользователей]
-    B --> C[Egor (root)\n• SELECT\n• INSERT\n• UPDATE\n• DELETE\n• CREATE\n• DROP\n• ALTER\n• INDEX\n• LOCK TABLES\n• CREATE VIEW]
-    B --> D[Admin\n• SELECT\n• INSERT\n• UPDATE\n• DELETE\n• CREATE\n• DROP\n• ALTER\n• INDEX\n• LOCK TABLES\n• CREATE VIEW]
-    B --> E[Moderator\n• SELECT\n• INSERT\n• UPDATE\n• SHOW VIEW]
-    B --> F[Guest\n• SELECT\n• SHOW VIEW]
